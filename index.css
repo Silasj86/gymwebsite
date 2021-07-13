@@ -16,3 +16,15 @@ body::before {
     }
 }
 
+.textw{
+  color: #E2F89C;
+}
+
+.news, .inst {
+    background-color: #E2F89C;
+}
+
+.btn {
+    background-color: #5B2E48;
+    border-width: 0;
+}
